@@ -40,11 +40,11 @@
 	},
 	"extra": {
 		"writable": [
-			"backend/runtime",
-			"backend/web/assets",
-
-			"frontend/runtime",
-			"frontend/web/assets"
+			"admin/app/runtime",
+			"admin/assets",
+            "api/app/runtime",
+			"app/runtime",
+			"app/assets"
 		]
 	}
 }
