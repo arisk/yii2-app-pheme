@@ -2,7 +2,7 @@
 	"name": "pheme/yii2-app-pheme",
 	"description": "Yii 2 Modified Application Template",
 	"keywords": ["yii2", "framework", "advanced", "application template"],
-	"homepage": "http://www.yiiframework.com/",
+	"homepage": "http://phe.me/",
 	"type": "project",
 	"license": "MIT",
 	"minimum-stability": "dev",
